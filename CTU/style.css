@@ -27,3 +27,34 @@ height: 6px;              /* thickness */
   width: 90%;
   margin: 30px auto; 
 }
+.line-3{
+  width: 84%;
+  border-bottom: 6px solid #3d4145;
+}
+.flat{
+  float: left;
+  object-fit: cover;
+  display: block;
+  box-shadow:  -3px -8px 15px black;
+  height: 780px;
+  width: 710px;
+}
+.content1{
+  max-width: 50%;
+  margin-left: 16px;
+}
+.headline1{
+    font-size: 36px;
+    padding-bottom: 8px;
+    margin-bottom: 5px;
+    margin-top: 0;
+    line-height: 34px;
+    font-family: 'Tinos', serif;
+    color: #000;
+    font-weight: 700;
+    margin: 10px 0;
+    width: 720px ;
+}
+.backgroung1{
+  background-image: url("images/top.jpg");
+}
