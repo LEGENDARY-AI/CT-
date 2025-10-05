@@ -1,0 +1,29 @@
+.display{
+    justify-content: center;
+    display:flex;
+    justify-items: stretch;
+}
+.nav-dispaly{
+    display: inline-block;
+}
+.badge1{
+  margin-right: 79px;
+  width: 100px;
+}
+
+.line-1{
+height: 6px;              /* thickness */
+  background: linear-gradient(to right, #ff4e50, #f9d423); /* gradient effect */
+  border: none;              /* remove default border */
+  border-radius: 3px;        /* rounded edges */
+  width: 80%;                /* control width */
+  margin: 20px auto;
+}
+.line-2{
+  border: none;
+  height: 4px;
+  background: #333;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  width: 90%;
+  margin: 30px auto; 
+}
