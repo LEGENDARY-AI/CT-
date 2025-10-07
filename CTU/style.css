@@ -55,6 +55,8 @@ height: 6px;              /* thickness */
     margin: 10px 0;
     width: 720px ;
 }
-.backgroung1{
+.background1{
   background-image: url("images/top.jpg");
 }
+
+/* trying to change the background image of the first navbar */
