@@ -32,31 +32,49 @@ height: 6px;              /* thickness */
   border-bottom: 6px solid #3d4145;
 }
 .flat{
-  float: left;
+  /* float: left; */
   object-fit: cover;
   display: block;
   box-shadow:  -3px -8px 15px black;
   height: 780px;
-  width: 710px;
+  width: 1024px;
 }
 .content1{
-  max-width: 50%;
+  max-width: 72%;
   margin-left: 16px;
+  display: block;
 }
 .headline1{
-    font-size: 36px;
+    font-size: 45px;
     padding-bottom: 8px;
     margin-bottom: 5px;
     margin-top: 0;
-    line-height: 34px;
+    line-height: 40px;
     font-family: 'Tinos', serif;
     color: #000;
     font-weight: 700;
     margin: 10px 0;
-    width: 720px ;
+    width: 1020px ;
 }
 .background1{
   background-image: url("images/top.jpg");
 }
-
 /* trying to change the background image of the first navbar */
+.Story{
+  display: block;
+}
+.photo-caption {
+  font-family: 'Tinos', serif;
+  font-size: 18px;
+  color: #2b2b2b;
+  line-height: 1.6;
+  margin-top: 12px;
+  margin-left: 16px;
+  max-width: 90%;
+  text-align: justify;
+}
+.credit{
+  margin-top: 20px;
+  font-size: large;
+  margin-left: 16px;
+}
