@@ -14,7 +14,7 @@
   width: 100px;
 }
 .line-1{
-height: 6px;              /* thickness */
+  height: 6px;              /* thickness */
   background: linear-gradient(to right, #ff4e50, #f9d423); /* gradient effect */
   border: none;              /* remove default border */
   border-radius: 3px;        /* rounded edges */
@@ -52,25 +52,20 @@ height: 6px;              /* thickness */
     margin-bottom: 5px;
     margin-top: 0;
     line-height: 40px;
-    font-family: 'Tinos', serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     color: #000;
     font-weight: 700;
     margin: 10px 0;
     width: 1020px ;
 }
-/* trying to change the background image of the first navbar */
+/* this class affect the headtitles and keeps the bosy of the story on the left  */
 .Story{
   display: block;
-}
-.photo-caption {
-  font-family: 'Tinos', serif;
-  font-size: 18px;
-  color: #2b2b2b;
-  line-height: 1.6;
-  margin-top: 12px;
-  margin-left: 16px;
-  max-width: 90%;
-  text-align: justify;
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  font-size: 27px;
+  margin: 10px 0;
+  width: 1020px ;
+  margin-left: 10px;
 }
 .credit{
   margin-top: 20px;
@@ -82,9 +77,6 @@ height: 6px;              /* thickness */
   position: relative;
   font-size: 14px;
 }
-.transparent {
-  background-color: transparent !important;
-  box-shadow: none !important; /* removes any shadow if Bootstrap adds one */
-}
+
 
 
