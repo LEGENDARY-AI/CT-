@@ -45,13 +45,14 @@
   max-width: 72%;
   margin-left: 16px;
   display: block;
+  margin-top: 60px;
 }
 .headline1{
     font-size: 45px;
     padding-bottom: 8px;
     margin-bottom: 5px;
-    margin-top: 0;
-    line-height: 40px;
+    margin-top: 12px;
+    line-height: 55px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: #000;
     font-weight: 700;
@@ -62,7 +63,7 @@
 .Story{
   display: block;
   font-family: "Poppins", "Segoe UI", sans-serif;
-  font-size: 27px;
+  font-size: 20px;
   margin: 10px 0;
   width: 1020px ;
   margin-left: 10px;
