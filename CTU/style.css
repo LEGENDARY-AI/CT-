@@ -62,7 +62,7 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: #000;
     font-weight: 700;
-    margin: 10px 0;
+    margin: 10px ;
     width: 1020px ;
 }
 .headline1{
@@ -113,12 +113,13 @@
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  height: 20px;
 }
 
 .nav-item .nav-link {
   color: white;                      /* adjust as you like */
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .nav-item .nav-link:hover {
