@@ -41,11 +41,29 @@
   height: 780px;
   width: 1024px;
 }
+.content0{
+   max-width: 72%;
+  margin-left: 16px;
+  display: block;
+  margin-top: 10px;
+}
 .content1{
   max-width: 72%;
   margin-left: 16px;
   display: block;
   margin-top: 60px;
+}
+.headline0{
+  font-size: 45px;
+    padding-bottom: 8px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    line-height: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #000;
+    font-weight: 700;
+    margin: 10px 0;
+    width: 1020px ;
 }
 .headline1{
     font-size: 45px;
